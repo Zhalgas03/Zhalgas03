@@ -7,17 +7,19 @@ I'm interested in **machine learning, data science, and software engineering**, 
 I also have a particular interest in **explainable AI** and understanding why models make their predictions.
 
 ---
+### 🧠 Brain Tumor Classification — Bachelor's Thesis
+**An Optimized and Interpretable Deep Learning Framework for Brain Tumor Classification**
 
-## Projects
+Designed and evaluated an interpretable deep learning pipeline for multiclass brain tumor classification from MRI images, with a focus on balancing predictive performance, robustness, and explainability.
 
-### 🧠 Brain Tumor Classification
-Bachelor's thesis project on multiclass brain tumor classification from MRI images.
+- Built and fine-tuned an **EfficientNetV2-S** model for 4-class MRI classification on **6,597 unique images**, after detecting and removing **426 duplicate samples**
+- Compared five experimental configurations involving **AdamW optimization, data augmentation, preprocessing, attention mechanisms (ECA, GAM, CBAM), and label smoothing**
+- Achieved approximately **98.9% test accuracy** with the selected model while maintaining balanced class-wise performance
+- Evaluated robustness under controlled image perturbations and analyzed how preprocessing affected model generalization
+- Compared **Grad-CAM, Grad-CAM++, Faster Score-CAM, and SmoothGrad** to evaluate localization quality and consistency
+- Identified an **accuracy–interpretability trade-off**: label smoothing reached 99.0% accuracy but produced less focused explanations, so the final model was selected based on overall reliability rather than accuracy alone
 
-- Fine-tuned EfficientNetV2-S using transfer learning
-- Compared attention mechanisms including ECA, GAM, and CBAM
-- Applied Grad-CAM, Grad-CAM++, Score-CAM, and SmoothGrad for model interpretation
-
-`Python` `TensorFlow` `Keras` `OpenCV` `Scikit-learn`
+`Python` `TensorFlow` `Keras` `OpenCV` `Scikit-learn` `Explainable AI`
 
 ---
 

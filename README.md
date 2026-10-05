@@ -7,6 +7,9 @@ I'm interested in **machine learning, data science, and software engineering**, 
 I also have a particular interest in **explainable AI** and understanding why models make their predictions.
 
 ---
+
+## Projects
+
 ### 🧠 Brain Tumor Classification — Bachelor's Thesis
 **An Optimized and Interpretable Deep Learning Framework for Brain Tumor Classification**
 
@@ -17,7 +20,7 @@ Designed and evaluated an interpretable deep learning pipeline for multiclass br
 - Achieved approximately **98.9% test accuracy** with the selected model while maintaining balanced class-wise performance
 - Evaluated robustness under controlled image perturbations and analyzed how preprocessing affected model generalization
 - Compared **Grad-CAM, Grad-CAM++, Faster Score-CAM, and SmoothGrad** to evaluate localization quality and consistency
-- Identified an **accuracy–interpretability trade-off**: label smoothing reached 99.0% accuracy but produced less focused explanations, so the final model was selected based on overall reliability rather than accuracy alone
+- Identified an **accuracy–interpretability trade-off**: label smoothing reached 99.0% accuracy but produced less focused explanations, so the final model was selected based on **performance, robustness, and interpretability rather than accuracy alone**
 
 `Python` `TensorFlow` `Keras` `OpenCV` `Scikit-learn` `Explainable AI`
 
@@ -62,7 +65,7 @@ Desktop implementation of the Durak card game with computer opponents.
 ---
 
 ### 📊 GDP Prediction
-Machine learning project for GDP forecasting using historical macroeconomic indicators.
+A machine learning project for GDP prediction using historical macroeconomic indicators.
 
 - Data cleaning and feature engineering
 - Compared multiple regression models

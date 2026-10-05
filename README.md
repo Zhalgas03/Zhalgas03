@@ -10,7 +10,7 @@ I like building things that work end to end: a model, a data pipeline, or a web 
 
 ## Projects
 
-### 🧠 [Brain Tumor Classification — Bachelor's Thesis](https://github.com/YOUR-USERNAME/REPO-NAME)
+### 🧠 [Brain Tumor Classification — Bachelor's Thesis](https://github.com/Zhalgas03/brain-tumor-classification)
 **An Optimized and Interpretable Deep Learning Framework for Brain Tumor Classification**
 
 An interpretable deep learning pipeline for multiclass brain tumor classification from MRI images. The goal was to balance predictive performance, robustness, and explainability, not just to chase accuracy.
@@ -24,7 +24,7 @@ An interpretable deep learning pipeline for multiclass brain tumor classificatio
 
 ---
 
-### 💬 [Chattrix](https://github.com/YOUR-USERNAME/REPO-NAME)
+### 💬 [Chattrix](https://github.com/Zhalgas03/Chattrix)
 A full-stack university project: a video-sharing and messaging platform, built to understand how all the parts of a real web app fit together.
 
 - User authentication and profiles
@@ -37,7 +37,7 @@ A full-stack university project: a video-sharing and messaging platform, built t
 
 ---
 
-### 🎻 [Dostar Orchestra Website](https://github.com/YOUR-USERNAME/REPO-NAME) · [Live demo](https://...)
+### 🎻 Dostar Orchestra Website · [Live demo](https://orchestra-site-sooty.vercel.app/)
 A multilingual website created for a symphonic-pop orchestra.
 
 - Responsive React interface
@@ -49,7 +49,7 @@ A multilingual website created for a symphonic-pop orchestra.
 
 ---
 
-### 🃏 [Durak](https://github.com/YOUR-USERNAME/REPO-NAME)
+### 🃏 [Durak](https://github.com/Zhalgas03/The-Durak)
 A desktop version of the classic Durak card game with computer opponents.
 
 - Game logic built with object-oriented Java
@@ -61,7 +61,7 @@ A desktop version of the classic Durak card game with computer opponents.
 
 ---
 
-### 📊 [GDP Prediction](https://github.com/YOUR-USERNAME/REPO-NAME)
+### 📊 [GDP Prediction](https://github.com/Zhalgas03/GDP-Prediction-Data-Mining-)
 A machine learning project that predicts GDP from historical macroeconomic indicators.
 
 - Data cleaning and feature engineering
@@ -88,5 +88,5 @@ A machine learning project that predicts GDP from historical macroeconomic indic
 
 I'm always happy to talk about ML, explainable AI, or interesting projects.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/zhalgas-abylkasymov)
+- 💼 [LinkedIn](https://www.linkedin.com/in/zhalgas-abylkasymov-96b12b201)
 - ✉️ zhalgas041203@gmail.com
